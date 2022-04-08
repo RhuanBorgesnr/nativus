@@ -1,11 +1,16 @@
 # REST API Nativus Salateria
 
-API desenvolvida com o microfamework flask.
+
+## Techs
+- Flask
+- SQlite
+- SQLachemy
 
 
 ## Run the app
 
 python app.py
+
 
 ## Get list of Products
 
